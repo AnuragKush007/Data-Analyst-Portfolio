@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: #0C0C0C;
+    color: #D7E2EA;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: clip;
+    background-color: #0C0C0C;
+  }
+
+  /* Custom Selection styling */
+  ::selection {
+    background-color: #D7E2EA;
+    color: #0C0C0C;
+  }
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0C0C0C;
+}
+::-webkit-scrollbar-thumb {
+  background: #2D2D2D;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #444444;
+}
+
+/* Gradient Heading Treatment */
+.hero-heading {
+  background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  display: inline-block;
+}
+
+/* Custom Premium CTA Button Gradient */
+.premium-cta-gradient {
+  background: linear-gradient(123deg, #18011F 7%, #B600A8 37%, #7621B0 72%, #BE4C00 100%);
+}
+
+/* Remove default styles for focus and keep premium focus rings */
+*:focus-visible {
+  outline: 2px solid #D7E2EA;
+  outline-offset: 4px;
+}
