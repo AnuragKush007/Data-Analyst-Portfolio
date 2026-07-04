@@ -1,75 +1,144 @@
-# Data Analyst Portfolio
+# 📊 Data Analyst Portfolio — Anurag Kushwaha
 
-A modern and interactive personal portfolio website showcasing my data analytics skills, projects, certifications, and professional background.
+A modern, interactive, and responsive Data Analyst portfolio showcasing my practical projects in **SQL, Power BI, Microsoft Excel, and Python**.
 
-The portfolio highlights practical projects developed using SQL, Power BI, Microsoft Excel, and Python, with a focus on data cleaning, exploratory data analysis, dashboard development, data visualization, and extracting meaningful business insights from data.
+The portfolio highlights my approach to data cleaning, exploratory data analysis, dashboard development, data visualization, and transforming raw data into meaningful business insights.
 
-## Featured Projects
+## 🌐 Live Portfolio
 
-### SQL Cab Booking System
+🔗 **View Live Portfolio:**  
+https://anuragkush007.github.io/Data-Analyst-Portfolio/
 
-A SQL-based database project focused on designing and analyzing a cab booking system. The project demonstrates database querying, joins, aggregations, subqueries, and analytical SQL techniques for extracting useful information from structured booking data.
+## 🖥️ Portfolio Preview
 
-### D-Mart Sales Analysis — Power BI
+![Data Analyst Portfolio Preview](public/images/portfolio-preview.png)
 
-An interactive Power BI sales analysis project designed to explore business performance through KPIs, trends, and visual insights. The dashboard provides an accessible view of sales performance and supports data-driven business analysis.
+## 👨‍💻 About Me
 
-### Coffee Shop Revenue & Performance Analysis — Excel
+I am an aspiring Data Analyst with hands-on experience working with SQL, Power BI, Microsoft Excel, and Python.
 
-An Excel-based business analysis project focused on transaction-level coffee shop sales data. The project analyzes revenue trends, store performance, product category contribution, weekday patterns, time-period performance, and hourly transaction activity through an interactive dashboard.
+My projects focus on analyzing real-world datasets, cleaning and transforming data, identifying trends and patterns, building interactive dashboards, and presenting insights in a clear and meaningful way.
 
-### Automobile Data Analysis — Python
+This portfolio brings together my key Data Analytics projects, technical skills, professional certifications, education, and contact information in one place.
 
-An exploratory data analysis project using Python and data analysis libraries to clean, analyze, and visualize automobile data. The project demonstrates practical data preprocessing, exploratory analysis, and visualization techniques for identifying meaningful patterns and relationships in the dataset.
+## 🚀 Featured Projects
 
-## Core Skills
+### 🚕 SQL Cab Booking System
 
-**Data Analysis:** Data Cleaning, Exploratory Data Analysis, Trend Analysis, KPI Analysis, Business Insights
+A SQL-based database project focused on designing and analyzing a cab booking system.
 
-**SQL & Databases:** SQL, MySQL, Joins, Aggregations, Subqueries, Data Analysis Queries
+The project demonstrates practical SQL skills including database querying, joins, aggregations, subqueries, and analytical techniques for extracting meaningful information from structured booking data.
 
-**Business Intelligence:** Power BI, Dashboard Development, Data Visualization, KPI Reporting
+**Tools & Technologies:** SQL, MySQL, Database Analysis
 
-**Microsoft Excel:** Data Cleaning, PivotTables, PivotCharts, Lookup Functions, Dashboarding
-
-**Python for Data Analysis:** Python, Pandas, NumPy, Matplotlib
-
-## Portfolio Features
-
-* Responsive and modern user interface
-* Interactive project showcase
-* Scroll-based animations and transitions
-* Dedicated Data Analytics skills section
-* Featured SQL, Power BI, Excel, and Python projects
-* Professional certifications showcase
-* Resume-based professional information
-* Contact and professional profile links
-* Optimized layouts for mobile, tablet, and desktop devices
-
-## Technology Used to Build the Portfolio
-
-The portfolio website is built using:
-
-* React
-* TypeScript
-* Tailwind CSS
-* Framer Motion
-* Lucide React
-
-These technologies are used to build and present the portfolio website. The professional focus of the portfolio itself is Data Analytics.
-
-## Featured Analytics Stack
-
-`SQL` `Power BI` `Microsoft Excel` `Python` `Pandas` `NumPy` `Matplotlib` `Data Visualization` `Dashboard Development` `Business Intelligence`
-
-## Purpose
-
-This portfolio was created to present my practical Data Analytics work in a clear and interactive format. It brings together projects across SQL, Power BI, Excel, and Python to demonstrate my approach to analyzing data, creating dashboards, identifying trends, and communicating insights effectively.
-
-## Connect With Me
-
-Explore my GitHub profile and portfolio projects to learn more about my work in data analytics, business intelligence, dashboard development, and data visualization.
+🔗 Repository:  
+https://github.com/AnuragKush007/Project-SQL_Cab_Booking_System
 
 ---
 
-If you find my projects useful, feel free to explore the repositories and connect with me for professional opportunities and collaboration.
+### 📈 D-Mart Sales Analysis — Power BI
+
+An interactive Power BI project focused on analyzing sales performance and presenting key business metrics through an intuitive dashboard.
+
+The project demonstrates data transformation, data modeling, KPI analysis, trend identification, and interactive business intelligence reporting.
+
+**Tools & Technologies:** Power BI, Power Query, Data Visualization, Business Intelligence
+
+🔗 Repository:  
+https://github.com/AnuragKush007/Project-POWERBI_D-mart_Sales_Analysis
+
+---
+
+### ☕ Coffee Shop Revenue & Performance Analysis — Excel
+
+An Excel-based business analysis project focused on transaction-level coffee shop sales data.
+
+The analysis explores revenue trends, store performance, product category contribution, weekday performance, time-period sales patterns, and hourly transaction activity through an interactive dashboard.
+
+**Tools & Technologies:** Microsoft Excel, PivotTables, PivotCharts, Data Analysis, Dashboard Development
+
+🔗 Repository:  
+https://github.com/AnuragKush007/Project-EXCEL_Coffee_Shop_Revenue_Performance_Analysis
+
+---
+
+### 🚗 Automobile Data Analysis — Python
+
+An exploratory data analysis project focused on cleaning, analyzing, and visualizing automobile data using Python.
+
+The project demonstrates practical data preprocessing, exploratory data analysis, statistical exploration, and data visualization techniques to identify patterns and relationships within the dataset.
+
+**Tools & Technologies:** Python, Pandas, NumPy, Matplotlib, Exploratory Data Analysis
+
+🔗 Repository:  
+https://github.com/AnuragKush007/Project-PYTHON_Automobile_Data_Analysis
+
+## 🛠️ Data Analytics Skills
+
+| Category | Skills & Tools |
+|---|---|
+| Data Analysis | Data Cleaning, Exploratory Data Analysis, Trend Analysis, KPI Analysis |
+| SQL & Databases | SQL, MySQL, Joins, Aggregations, Subqueries |
+| Business Intelligence | Power BI, Power Query, Dashboard Development, Data Visualization |
+| Microsoft Excel | PivotTables, PivotCharts, Lookup Functions, Data Cleaning, Dashboarding |
+| Python | Python, Pandas, NumPy, Matplotlib |
+| Visualization | Interactive Dashboards, Charts, KPI Reporting, Business Insights |
+
+## 🎓 Professional Certifications
+
+My professional certifications and learning credentials are available in the following repository:
+
+🔗 **Professional Certifications:**  
+https://github.com/AnuragKush007/Professional-Certifications
+
+## ✨ Portfolio Features
+
+- Modern and responsive user interface
+- Data Analyst-focused professional branding
+- Interactive project showcase
+- Scroll-based animations and transitions
+- Dedicated Data Analytics skills section
+- Four featured analytics projects
+- Professional certifications showcase
+- Resume-based professional information
+- Responsive design for mobile, tablet, laptop, and desktop
+- Direct links to GitHub projects and professional profiles
+
+## 💻 Portfolio Technology Stack
+
+The portfolio website is built using:
+
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- Vite
+
+These technologies are used to build the portfolio website, while the professional focus of the portfolio is **Data Analytics**.
+
+## 📁 Project Structure
+
+```text
+Data-Analyst-Portfolio/
+├── public/
+│   └── images/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.tsx
+│   └── main.tsx
+├── .github/
+│   └── workflows/
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── tsconfig.json
+└── vite.config.ts
+
+🤝 Connect With Me
+Portfolio: https:/anuragkush007.github.io/Data-Analyst-Portfolio/
+GitHub: https://github.com/AnuragKush007
+LinkedIn: https://www.linkedin.com/in/anurag-kushwaha-analytics/
+
+⭐ If you find my projects useful, feel free to explore the repositories and connect with me for Data Analyst opportunities and professional collaboration.
