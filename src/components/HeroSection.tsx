@@ -75,7 +75,7 @@ export const HeroSection: React.FC = () => {
             View Projects
           </a>
           <a
-            href="/Anurag_Resume_Final.pdf"
+            href={`${import.meta.env.BASE_URL}Anurag_Resume_Final.pdf`}
             download="Anurag_Kushwaha_Resume.pdf"
             className="text-[#D7E2EA]/85 hover:text-[#D7E2EA] underline uppercase tracking-widest text-xs font-medium focus-visible:ring-2"
           >

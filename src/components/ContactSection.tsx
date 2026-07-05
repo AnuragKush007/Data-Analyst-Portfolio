@@ -88,7 +88,7 @@ export const ContactSection: React.FC = () => {
           {/* Resume Download button */}
           <Magnet strength={3} range={100}>
             <a 
-              href="/Anurag_Resume_Final.pdf"
+              href={`${import.meta.env.BASE_URL}Anurag_Resume_Final.pdf`}
               download="Anurag_Kushwaha_Resume.pdf"
               className="flex items-center gap-2.5 premium-cta-gradient text-white px-6 py-3.5 rounded-full text-xs font-bold uppercase tracking-widest border border-white/10 hover:shadow-[0_10px_20px_rgba(182,0,168,0.15)] transition-all duration-300 select-none"
             >
